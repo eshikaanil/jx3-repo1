@@ -10,3 +10,8 @@ spec:
     repositories:
     - name: jx3-repo1
     scheduler: in-repo
+  - owner: GitJx3
+    provider: https://github.com
+    providerKind: github
+    repositories:
+    - name: p1
